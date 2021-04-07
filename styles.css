@@ -76,11 +76,12 @@ footer .footer p, h4 {
     #firstH1 {
         color: red;
     }
-    .blurb p {
-        /* font-size: 1rem; */
-    }
+    /* .blurb p {
+        font-size: 1rem;
+    } */
 }
 @media (max-width: 768px) {
     .navbar-nav .navbar-nav {
         font-size: 1.8rem;
     }
+}
