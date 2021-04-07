@@ -67,6 +67,7 @@ footer .footer p, h4 {
         font-size: 1.35;
     }
 }
+
 @media (max-width: 1000px) {
     #firstH1 {
         color: red;
@@ -75,6 +76,16 @@ footer .footer p, h4 {
         font-size: 1rem;
     } */
 }
+
+@media (max-width: 1074px){
+    #mainNavbar .nav-link {
+        font-size: 1.259rem;
+    }
+    /* #mainNavbar .navbar-brand {
+        font-size: 1.4rem; 
+    } */
+}
+
 @media (max-width: 768px) {
     .navbar-nav .navbar-nav {
         font-size: 1.8rem;
