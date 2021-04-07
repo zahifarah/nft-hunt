@@ -10,7 +10,7 @@ body {
 
 #mainNavbar .navbar-brand {
     font-family: 'Montserrat', sans-serif;
-    color: #0c162c;
+    color: #ffffff;
     font-size: 1.5rem;
     font-weight: 600;
     transition: color 350ms;
@@ -29,7 +29,7 @@ body {
 #mainNavbar .nav-link {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    color: black;
+    color: rgb(255, 255, 255);
     transition: color 350ms; font-weight: 150ms;
 }
 #mainNavbar .nav-link:hover {
