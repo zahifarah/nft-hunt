@@ -1,0 +1,103 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img-fluid {
+    max-width: 70%;
+    height: auto;
+}
+
+#mainNavbar .navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: 600;
+    transition: color 350ms;
+    margin: 0 20px;
+}
+#mainNavbar .navbar-brand:hover {
+    color: #ff1010;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 300;
+    background-image: linear-gradient(-90deg, #8cf7ff, #ffb6fa);
+}
+
+#mainNavbar .nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    transition: color 350ms; font-weight: 150ms;
+}
+#mainNavbar .nav-link:hover {
+    color: #ff1010;
+    font-weight: 400;
+}
+#mainNavbar .nav-link {
+    margin: 0 20px;
+}
+
+.blurb p, .team p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.25;
+    font-weight: 300;
+    font-size: 1.225;
+    text-align: justify;
+}
+
+.team p {
+    font-size: 1.125em;
+    text-align: center;
+}
+
+
+footer .footer {
+    background-image: linear-gradient(-90deg, #ffb6fa, #8cf7ff);
+}
+footer .footer p, h4 {
+    color: #0c162c;
+}
+
+
+@media (max-width: 1141px) {
+    #mainNavbar .nav-link {
+        font-size: 1.35;
+    }
+}
+
+@media (max-width: 1074px){
+    #mainNavbar .nav-link {
+        font-size: 1.29rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    #firstH1 {
+        color: red;
+    }
+}
+
+@media (max-width: 850px){
+    .img-fluid {
+        max-width: 80%;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-nav .navbar-nav {
+        font-size: 1.8rem;
+    }
+    .img-fluid {
+        max-width: 55%;
+        height: auto;
+    }
+}
