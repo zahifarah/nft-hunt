@@ -58,12 +58,12 @@ body {
     text-align: center;
 }
 
-#team-content {
+/* #team-content {
     font-family: 'Courier Prime', monospace;
-}
-
+} */
 .team p {
     font-family: 'Courier Prime', monospace;
+    font-size: 1.1rem;
 }
 
 footer .footer {
