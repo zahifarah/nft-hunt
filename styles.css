@@ -64,7 +64,14 @@ body {
 .team p {
     font-family: 'Courier Prime', monospace;
     font-size: 1.1rem;
+    line-height: 0.5rem;
+    margin-top: 10px;
 }
+
+.team-details {
+    color: rgb(2, 201, 135);
+}
+
 
 footer .footer {
     background-image: linear-gradient(-90deg, #ffb6fa, #8cf7ff);
@@ -74,9 +81,22 @@ footer .footer p, h4 {
 }
 
 
+
+@media (max-width: 1200px) {
+    .team p {
+        font-size: 1rem;
+    }
+}
+
 @media (max-width: 1141px) {
     #mainNavbar .nav-link {
         font-size: 1.35;
+    }
+}
+
+@media (max-width: 1112px) {
+    .team p {
+        line-height: 1.1rem;
     }
 }
 
@@ -89,6 +109,13 @@ footer .footer p, h4 {
 @media (max-width: 1000px) {
     #firstH1 {
         color: red;
+    }
+}
+
+@media (max-width: 992px) {
+    .team p {
+        font-family: 'Courier Prime', monospace;
+        line-height: 0.5rem;
     }
 }
 
