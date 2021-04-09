@@ -45,7 +45,7 @@ body {
     margin: 0 20px;
 }
 
-.blurb p, .team p {
+.blurb p {
     font-family: 'Roboto', sans-serif;
     line-height: 1.25;
     font-weight: 300;
@@ -58,6 +58,13 @@ body {
     text-align: center;
 }
 
+#team-content {
+    font-family: 'Courier Prime', monospace;
+}
+
+.team p {
+    font-family: 'Courier Prime', monospace;
+}
 
 footer .footer {
     background-image: linear-gradient(-90deg, #ffb6fa, #8cf7ff);
