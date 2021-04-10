@@ -53,25 +53,33 @@ body {
     text-align: justify;
 }
 
-.team p {
-    font-size: 1.125em;
-    text-align: center;
+.videowrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0px;
+    margin-bottom: 50px;
 }
 
-/* #team-content {
-    font-family: 'Courier Prime', monospace;
-} */
+.videowrapper iframe {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
 .team p {
     font-family: 'Courier Prime', monospace;
     font-size: 1.1rem;
     line-height: 0.5rem;
     margin-top: 10px;
 }
-
 .team-details {
     color: rgb(0, 159, 106);
 }
-
 
 footer .footer {
     background-image: linear-gradient(-90deg, #ffb6fa, #8cf7ff);
