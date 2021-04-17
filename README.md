@@ -5,9 +5,9 @@ interaction between artists and collectors at the touch of your fingertips.
 
 This project was part the Chainlink Hackathon Spring 2021.
 
-Devpost: https://devpost.com/software/nft-hunt
+--> Devpost: https://devpost.com/software/nft-hunt
 
-Landing/Demo page: https://zahifarah.github.io/nft-hunt/
+--> Demo page: https://zahifarah.github.io/nft-hunt/
 
 
 # Inspiration
