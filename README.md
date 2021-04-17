@@ -34,6 +34,7 @@ Shoot high. Although we did not complete the project, we still learned quite a l
 
 # What's next for NFT-Hunt
 Tie together the backend: Finish the Android GPS app, connect the Chainlink oracle to Firebase, put up an NFT to buy, connect that NFT to the GPS_check_locations smart contract. 
+
 Frontend: a create a frontend using React.js
 
 
