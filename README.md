@@ -4,7 +4,10 @@ Whether it's a new song, an animated renaissance style painting or a unique piec
 interaction between artists and collectors at the touch of your fingertips.
 
 This project was part the Chainlink Hackathon Spring 2021.
+
+Devpost: https://devpost.com/software/nft-hunt
 Landing/Demo page: https://zahifarah.github.io/nft-hunt/
+
 
 # Inspiration
 Our esteemed teammate Dani originally came up with the idea while we were brainstorming back in march. Our first thought was that it could revolutionize part of the tourism industry. People traveling to popular destinations can now buy location specific NFT’s to prove that they went there. Since people love to show off their travels, this would be a logical next step in the way of social interaction through a gamified NFT search.
