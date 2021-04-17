@@ -21,7 +21,7 @@ We built it using Solidity, Remix, and Android Studios. We started with Android 
 # Challenges we ran into
 This was a learning curve for all of us, at different levels. We spent a LOT of time learning about Chainlink oracles, blockchain structure, Remix and Hardhat. One of the main challenges that stuck out was connecting the Chainlink oracle to Firebase. The Firebase API was unclear and we could just not figure out the connection. Another challenge was using the Kovan testnet in Hardhat. For some reason it refused to work and so the Chainlink oracle smart contract has to be executed in Remix at the time of writing this.
 
-# Accomplishments that we're proud of
+# Accomplishments we're proud of
 Connecting the Chainlink oracle to IPFS, learning Solidity, Javascript, Remix hardhat, navigating the cryptic command line and getting a landing page up and running in time for demo day.
 
 # What we learned
